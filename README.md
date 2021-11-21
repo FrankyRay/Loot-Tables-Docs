@@ -26,3 +26,7 @@ On your custom block/entity, use `minecraft:loot` to linking your custom loot ta
     "minecraft:loot": "loot_tables/path/to/your/file"
 }
 ```
+
+##### Note:
+
+This is my personal documentation, not Official Documentation. Any wrong information is my fault. Most important one is ***"Not Affiliated by Mojang Studio or Microsoft"***
