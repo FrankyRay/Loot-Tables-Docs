@@ -1,0 +1,23 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:stick",
+                    "weight": 1
+                },
+                {
+                    "type": "empty",
+                    "weight": 1
+                },
+                {
+                    "type": "loot_tables",
+                    "table": "loot_tables/entity/creeper.json",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}
